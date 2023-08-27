@@ -1,0 +1,17 @@
+'<!DOCTYPE html>'
+'<html lang="en">'
+'<head>'
+    '<meta charset="UTF-8">'
+    '<meta http-equiv="X-UA-Compatible" content="IE=edge">'
+    '<meta name="viewport" content="width=device-width, initial-scale=1.0">'
+    '<title>Erorr</title>'
+'</head>'
+'<body>'
+   ' <center><h1>Error 404: Not found</h1>'
+
+    '<hr><p style= "font-weight: bold;">Miral issa- 1200527</p><p style= '
+      '  "font-weight: bold;">Rawa Hajaj - 1191497</p><hr><h2>IP:' + str(
+            ip) + ', Port: ' + str(port) +  '</h2></center></body></html>)' 
+    
+'</body>'
+'</html>'
